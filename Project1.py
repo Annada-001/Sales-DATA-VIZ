@@ -4,6 +4,7 @@ import seaborn as sns
 
 # Load your dataset
 df = pd.read_excel("C:/Users/Parth/Downloads/Sales Records (2).xlsx")
+# Channging the file locationn
 
 
 # Calculate Profit
