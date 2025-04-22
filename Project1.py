@@ -6,7 +6,6 @@ import seaborn as sns
 df = pd.read_excel("C:/Users/Parth/Downloads/Sales Records (2).xlsx")
 
 
-
 # Calculate Profit
 df['Profit'] = df['Total Revenue'] - df['Total Cost']
 
