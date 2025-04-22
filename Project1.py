@@ -57,6 +57,5 @@ plt.tight_layout()
 plt.show()
 
 
-# INT 375 Data Visualization Project This Showssales report of Region, country , product sales...and statical analysis
-# Signature- A Chakravarty, 12319336, Lovely prof.  university
+#All set ...
 
