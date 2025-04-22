@@ -9,7 +9,6 @@ df = pd.read_excel("C:/Users/Parth/Downloads/Sales Records (2).xlsx")
 # Calculate Profit
 df['Profit'] = df['Total Revenue'] - df['Total Cost']
 
-# Set plot style
 sns.set(style='whitegrid')
 plt.rcParams['figure.figsize'] = (10, 6)
 
