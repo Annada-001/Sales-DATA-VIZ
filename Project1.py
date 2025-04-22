@@ -37,7 +37,7 @@ plt.xlabel('Unit Price')
 plt.ylabel('Frequency')
 plt.tight_layout()
 
-# 4. Boxplot - Profit Distribution by Region
+
 plt.figure()
 sns.boxplot(data=df, x='Region', y='Profit')
 plt.xticks(rotation=90)
