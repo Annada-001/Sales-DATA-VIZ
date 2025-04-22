@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+#using pandas , matplotlib and seaborn
 
 # Load your dataset
 df = pd.read_excel("C:/Users/Parth/Downloads/Sales Records (2).xlsx")
